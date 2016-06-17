@@ -1,0 +1,12 @@
+E:\Projects\VS_Project\Firewall_Console_Test\Firewall_Console_Test\bin\Debug\Firewall_Console_Test.exe.config
+E:\Projects\VS_Project\Firewall_Console_Test\Firewall_Console_Test\bin\Debug\Firewall_Console_Test.exe
+E:\Projects\VS_Project\Firewall_Console_Test\Firewall_Console_Test\bin\Debug\Firewall_Console_Test.pdb
+E:\Projects\VS_Project\Firewall_Console_Test\Firewall_Console_Test\obj\Debug\Firewall_Console_Test.csprojResolveAssemblyReference.cache
+E:\Projects\VS_Project\Firewall_Console_Test\Firewall_Console_Test\obj\Debug\Firewall_Console_Test.exe
+E:\Projects\VS_Project\Firewall_Console_Test\Firewall_Console_Test\obj\Debug\Firewall_Console_Test.pdb
+E:\Projects\VS_Project\Firewall_Console_Test_TCP\Firewall_Console_Test\bin\Debug\Firewall_Console_Test.exe.config
+E:\Projects\VS_Project\Firewall_Console_Test_TCP\Firewall_Console_Test\obj\Debug\Firewall_Console_Test.exe
+E:\Projects\VS_Project\Firewall_Console_Test_TCP\Firewall_Console_Test\obj\Debug\Firewall_Console_Test.pdb
+E:\Projects\VS_Project\Firewall_Console_Test_TCP\Firewall_Console_Test\bin\Debug\Firewall_Console_Test.exe
+E:\Projects\VS_Project\Firewall_Console_Test_TCP\Firewall_Console_Test\bin\Debug\Firewall_Console_Test.pdb
+E:\Projects\VS_Project\Firewall_Console_Test_TCP\Firewall_Console_Test\obj\Debug\Firewall_Console_Test.csprojResolveAssemblyReference.cache
